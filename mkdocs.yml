@@ -1,4 +1,5 @@
 site_name: Samurai Uprising
+site_url: https://shahiutsav.github.io/samurai-uprising/
 site_author: ingine
 theme:
   name: material
@@ -26,6 +27,7 @@ theme:
     - navigation.tabs.sticky
 
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences
