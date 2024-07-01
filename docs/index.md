@@ -1,5 +1,6 @@
 # Welcome to Samurai Uprising
 
+
 Hey there, welcome to Samurai Uprising, Torn City's underdogs in the art of war! Whether you're new to the battlefield or a seasoned warrior, you've found a community dedicated to to strategic (most of the time) domination and collective triumph. Here, our primary focus is on sharpening our combat skills and expanding our influence through tactical prowess.
 
 While we excel in warfare, we also support members in other endeavors like trading and finance. but make no mistake, our strength lies in our ability to coordinate strikes, defend our turf, and outmaneuver our rivals. (Again, most of the time 😀).

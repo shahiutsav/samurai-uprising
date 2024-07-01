@@ -36,7 +36,10 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Welcome: index.md
+  - Home: 
+    - Welcome: index.md
+    - Basics: guide.md
+    
   - Tools:
     - TornStats: tools/tornstats.md
     - Discord: tools/discord.md
